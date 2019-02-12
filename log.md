@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 11, 2019
+**Today's Progress**: Worked through GitHub Basics Tutorial by Tiffany Thompson (via FreeCodeCamp) on YouTube
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:**: I have been terrified of the command line, Git, and GitHub for far too long. Today I decided to just tackle that fear and dive in. Spoiler: it wasn't that bad! Haha. I don't feel terrified that I'm going to accidentally write over someone else's master branch and ruin their life (my brain sometimes has a tendency to spiral, whoops). I am certainly not a master of Git at this point, but I know enough to be (less?) dangerous. I actually feel quite empowered now that I have a basic understanding of how to use Git and manipulate local repositories as well as my remote repository on GitHub. I also feel for some reason that I won't be as intimidated to pursue other areas of tech knowledge that I have previously been afraid of for one reason or another because I have tackled this one fear. Imposter Syndrome is a real thing, y'all. BUT YOU CAN SHOW IT WHO'S BOSS *flex*
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** link to the FreeCodeCamp tutorial I followed today: https://www.youtube.com/watch?v=x0EYpi38Yp4;
+link to my GitHub repo for today's work: https://github.com/ibeepboop/testing123
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: February 12, 2019
+**Today's Progress**: Worked through Git & GitHub Crash Course for Beginners by Traversy Media on YouTube; forked/cloned the 100-days-of-code repo from GitHub to begin work! Made a schedule for my 100DoC journey to help me keep on track, because planning is half the battle, IMO.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:**: Today I felt comfortable enough to go ahead and fork/clone the official 100-days-of-code repo so that I can go ahead and start tracking my progress through 100DoC. I know it may seem silly, but this really is a BIG step for me. I've started and stopped 100DoC 3 or 4 times since November. Some of that was due to holidays/family stuff, but a lot if it was because I just felt overwhelmed and kind of scared. Even when I was coding, I wasn't actually tracking any of my progress except for the occasional Tweet. This feels like a major, firm step in the right direction. I'm excited to start making commits to my own little corner of 100DoC :)
+**Link to work:** link to the Traversy Media YouTube tutorial I followed today: https://www.youtube.com/watch?v=SWYqp7iY_Tc;
+link to my GitHub repo for today's work: https://github.com/ibeepboop/myAppSample
