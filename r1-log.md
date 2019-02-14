@@ -9,3 +9,6 @@ Started learning Git/GitHub via FreeCodeCamp YouTube tutorial by Tiffany Thompso
 
 ### R1D2
 Learned Git/GitHub via Traversy Media tutorial on GitHub. Forked/cloned 100-days-of-code repo! Made official 100DoC personal schedule! Party time!
+
+### R1D3
+Completed Intro to Basic HTML and HTML5 curriculum on fCC. Worked on Tribute Page for the fCC Responsive Web Design Certification (worked on HTML file and made the README.md file for the GitHub repository).
