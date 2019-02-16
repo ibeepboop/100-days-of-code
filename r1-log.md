@@ -15,3 +15,6 @@ Completed Intro to Basic HTML and HTML5 curriculum on fCC. Worked on Tribute Pag
 
 ### R1D4
 Completed the first module of Codecademy's Intro to HTML course. Added a link to my fCC Tribute Page's html file. Listened to S5E13 of the Learn to Code with Me podcast ("7 Emerging Technologies to Learn in 2019"). Did some research into Flatiron School, Skillcrush, Lambda School. Also looked into CompTIA certifications as a possible way to get my foot in the door for a first job.
+
+### R1D5
+Worked through Codecademy tutorial to make an interactive story using Twine. Indirectly learned about the Electron js framework, React, how to contribute to an open source project as a beginner on GitHub, and minifying/unminifying code. Worked through the Codecademy Intro to HTML curriculum; made a "fashion blog", HTML only. Also made a wine festival schedule to practice making HTML tables, but will need to revise the CSS file that accompanies the HTML file.
