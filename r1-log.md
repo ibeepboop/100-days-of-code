@@ -18,3 +18,6 @@ Completed the first module of Codecademy's Intro to HTML course. Added a link to
 
 ### R1D5
 Worked through Codecademy tutorial to make an interactive story using Twine. Indirectly learned about the Electron js framework, React, how to contribute to an open source project as a beginner on GitHub, and minifying/unminifying code. Worked through the Codecademy Intro to HTML curriculum; made a "fashion blog", HTML only. Also made a wine festival schedule to practice making HTML tables, but will need to revise the CSS file that accompanies the HTML file.
+
+### R1D6
+Completed all of the Codecademy Intro to HTML curriculum. Made a "Mad Lib"-type story using HTML forms/inputs as the freeform project for the Codecademy course. Also started watching Professor Messer's CompTIA training videos on YouTube. Seriously considering getting my A+ certification. Need a bit more research though.
