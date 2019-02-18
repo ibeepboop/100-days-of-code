@@ -21,3 +21,6 @@ Worked through Codecademy tutorial to make an interactive story using Twine. Ind
 
 ### R1D6
 Completed all of the Codecademy Intro to HTML curriculum. Made a "Mad Lib"-type story using HTML forms/inputs as the freeform project for the Codecademy course. Also started watching Professor Messer's CompTIA training videos on YouTube. Seriously considering getting my A+ certification. Need a bit more research though.
+
+### R1D7
+No actual coding, but got a schedule together for next week's proceedings. Also got a Pluralsight membership and started watching the CompTIA A+ series of videos. Excited to keep exploring Pluralsight's offerings!
