@@ -24,3 +24,6 @@ Completed all of the Codecademy Intro to HTML curriculum. Made a "Mad Lib"-type 
 
 ### R1D7
 No actual coding, but got a schedule together for next week's proceedings. Also got a Pluralsight membership and started watching the CompTIA A+ series of videos. Excited to keep exploring Pluralsight's offerings!
+
+### R1D8 & 9
+Worked through Sections 6 & 7 of Brad Hussey's Udemy Course "The Ultimate Web Designer and Developer Course." Made a basic webpage (Mac from "It's Always Sunny in Philadelphia's 'personal' website; it's pretty funny). Mostly wanted to work through this course and see if there was any more HTML I could learn from him that I hadn't already learned. Most of it was review, but I did get in some more practice making HTML forms.
