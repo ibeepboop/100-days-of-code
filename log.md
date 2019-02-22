@@ -46,3 +46,7 @@
 **Today's Progress**: Worked though sections 6 and 7 of Brad Hussey's "Ultimate Web Designer & Developer course on Udemy. I want to get as much HTML practice as possible, so I thought I might as well work through his HTML curriculum to see if any new information could be gleaned. Made a basic webpage with forms (based on Mac from "It's Always Sunny in Philadelphia).
 **Thoughts**: I'm glad I worked through Brad Hussey's HTML curriculum; it's interesting to see how his approach is different from what I learned via FreeCodeCamp and Codecademy. Most of what I learned from his class was review, but I did get some much-needed HTML form practice in. I think I'll finish his HTML curriculum, then move on to CSS.
 **Link to work:**[Mac's Basic Website](https://github.com/ibeepboop/UltimateWebDeveloperCourse/blob/master/HTML/html_project.html)
+
+### Day 9 & 10: February 20-21, 2019
+**Today's Progress**: I've been really busy at work the past 2 days; yesterday I didn't even get a chance to sit down in front of my computer, but today I made sure to make time for squeezing in the Basic CSS curriculum on freeCodeCamp.
+**Thoughts**: I found it super helpful to review this section, even though I've done it before. I had completely forgotten that you can use attributes as CSS selectors. I had also forgotten about CSS variables, and those seem like they could be REALLY helpful when you don't want to change a bunch of lines of styling code that are all related.

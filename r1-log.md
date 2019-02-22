@@ -27,3 +27,6 @@ No actual coding, but got a schedule together for next week's proceedings. Also 
 
 ### R1D8 & 9
 Worked through Sections 6 & 7 of Brad Hussey's Udemy Course "The Ultimate Web Designer and Developer Course." Made a basic webpage (Mac from "It's Always Sunny in Philadelphia's 'personal' website; it's pretty funny). Mostly wanted to work through this course and see if there was any more HTML I could learn from him that I hadn't already learned. Most of it was review, but I did get in some more practice making HTML forms.
+
+###R1D10 & 11
+Skipped coding on Day 10; busy day at work. Day 11: worked through the Basic CSS portion of freeCodeCamp. Found it really useful to review attribute selectors and creating CSS variables.
