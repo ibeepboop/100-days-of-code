@@ -30,3 +30,9 @@ Worked through Sections 6 & 7 of Brad Hussey's Udemy Course "The Ultimate Web De
 
 ###R1D10 & 11
 Skipped coding on Day 10; busy day at work. Day 11: worked through the Basic CSS portion of freeCodeCamp. Found it really useful to review attribute selectors and creating CSS variables.
+
+###R1D12
+Skipped a couple of days due to work obligations, but I'm back at it. Today I just did the Applied Visual Design and Flexbox portions of the freeCodeCamp Basic CSS curriculum.
+
+###R1D13
+Today I did the Grid section of freeCodeCamp's Basic CSS curriculum, and I also did the first section of Codecademy's CSS curriculum (CSS Setup and Selectors).

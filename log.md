@@ -50,3 +50,11 @@
 ### Day 9 & 10: February 20-21, 2019
 **Today's Progress**: I've been really busy at work the past 2 days; yesterday I didn't even get a chance to sit down in front of my computer, but today I made sure to make time for squeezing in the Basic CSS curriculum on freeCodeCamp.
 **Thoughts**: I found it super helpful to review this section, even though I've done it before. I had completely forgotten that you can use attributes as CSS selectors. I had also forgotten about CSS variables, and those seem like they could be REALLY helpful when you don't want to change a bunch of lines of styling code that are all related.
+
+### Day 11: February 24, 2019
+**Today's Progress**: Skipped a couple of days, but I'm back at it! Today all I did was freeCodeCamp's curriculum on Applied Visual Design and Flexbox in their Basic CSS section.
+**Thoughts**: I feel guilty for missing a couple of days, but work seriously has been taking it out of me. I needed some time to recharge the batteries. Even though the stuff I did today was review, it was good. I'm not super comfortable with Flexbox yet, so it was good to go over it again.
+
+### Day 12: February 25, 2019
+**Today's Progress**: freeCodeCamp Basic CSS: Grid curriculum. Also the first section of CSS on CodeCademy (CSS Setup and Selectors).
+**Thoughts**: Grid was not review; it was completely new material. I actually find Grid to be more intuitive than Flexbox, but I think the reason Flexbox is more popular is because once you understand how it works, it's a lot easier to manipulate, especially with respect to responsive design. I'm not sure; I'll do some more research on that. The CSS work I did on Codecademy was review, but still good to revisit. I finally feel like some of the stuff I've learned in the past is "sticking," i.e. when I review it like I have been, it comes pretty easily.
