@@ -36,3 +36,6 @@ Skipped a couple of days due to work obligations, but I'm back at it. Today I ju
 
 ###R1D13
 Today I did the Grid section of freeCodeCamp's Basic CSS curriculum, and I also did the first section of Codecademy's CSS curriculum (CSS Setup and Selectors).
+
+###R1D14
+Finished Codecademy CSS Sections 1 & 2 (Selectors and Visual Rules/The Box Model).

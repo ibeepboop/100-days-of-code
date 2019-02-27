@@ -58,3 +58,7 @@
 ### Day 12: February 25, 2019
 **Today's Progress**: freeCodeCamp Basic CSS: Grid curriculum. Also the first section of CSS on CodeCademy (CSS Setup and Selectors).
 **Thoughts**: Grid was not review; it was completely new material. I actually find Grid to be more intuitive than Flexbox, but I think the reason Flexbox is more popular is because once you understand how it works, it's a lot easier to manipulate, especially with respect to responsive design. I'm not sure; I'll do some more research on that. The CSS work I did on Codecademy was review, but still good to revisit. I finally feel like some of the stuff I've learned in the past is "sticking," i.e. when I review it like I have been, it comes pretty easily.
+
+### Day 13: February 26, 2019
+**Today's Progress**: Finished Codecademy's first and second sections of their CSS curriculum (Selectors and Visual Rules/The Box Model).
+**Thoughts**: Today felt pretty grindy. Not in a good, MMORPG kind of way. In a "I'm really low energy right now and I just have to get this done" kind of way. Everthing I did was review though, so at least I want just rushing through new material. I'm sure not all days on this 100 Days of Code journey are going to be rainbows and sunshine--that's just not possible--but I do feel kind of guilty about being so tired today while I'm trying to study. Hopefully tomorrow goes a bit better.
